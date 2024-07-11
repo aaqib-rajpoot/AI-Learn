@@ -1,2 +1,2 @@
 # AI-Learn
-AI first repository
+this is our second commit
